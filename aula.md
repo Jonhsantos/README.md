@@ -1,2 +1,5 @@
-aula 1
-aprendendo git e versionamento
+# aula 1 / Vs
+
+## aprendendo git e versionamento de repositorios 
+
+## aprendedo 
