@@ -2,4 +2,6 @@
 
 ## aprendendo git e versionamento de repositorios 
 
-## aprendedo 
+* aprendedo 
+
+git push / git pull
